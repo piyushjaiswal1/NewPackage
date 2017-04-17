@@ -1,0 +1,13 @@
+{
+    "name": "p/j",
+    "authors": [
+        {
+            "name": "piyushjaiswal1",
+            "email": "piyush.j@solutionsinfini.com"
+        }
+    ],
+ "require": {"facebook/php-sdk": "3.2.*"},
+    "autoload": {
+        "psr-0": { "Elasticsearch\\Php\\" : "src/" }
+    }
+}
